@@ -1,3 +1,21 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
 ul{
     list-style: none;
+}
+
+.banner{
+    background-color: blue;
+    color: #ffff;
+}
+
+.accordion{
+    width: 668px;
+    height: 344px;
+}
+
+.accordion-item{
+    margin-bottom: 16px;
 }
